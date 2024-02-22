@@ -1,0 +1,15 @@
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\bin\Debug\net6.0\DevFreela.Payments.Infrastructure.deps.json
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\bin\Debug\net6.0\DevFreela.Payments.Infrastructure.dll
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\bin\Debug\net6.0\DevFreela.Payments.Infrastructure.pdb
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\DevFreela.Payments.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\DevFreela.Payments.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\DevFreela.Payments.Infrastructure.AssemblyInfo.cs
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\DevFreela.Payments.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\DevFreela.Payments.Infrastructure.dll
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\refint\DevFreela.Payments.Infrastructure.dll
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\DevFreela.Payments.Infrastructure.pdb
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\ref\DevFreela.Payments.Infrastructure.dll
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\bin\Debug\net6.0\DevFreela.Payments.Core.dll
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\bin\Debug\net6.0\DevFreela.Payments.Core.pdb
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\DevFreela.Payments.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\clarit.dev01\Desktop\DevFreelaPayment\DevFreelaPayment\DevFreela.Payments\DevFreela.Payments.Infrastructure\obj\Debug\net6.0\DevFreela.Payments.Infrastructure.csproj.CopyComplete
